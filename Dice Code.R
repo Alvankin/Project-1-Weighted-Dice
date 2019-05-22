@@ -7,3 +7,5 @@ roll <- function() {
   dice <- sample(die, size = 2, replace = TRUE)
   sum(dice)
 }
+
+roll2 <- function()
